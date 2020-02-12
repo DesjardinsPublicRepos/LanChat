@@ -1,0 +1,14 @@
+C:\Users\Fabian\source\repos\LanChat\LanChat\obj\Debug\LanChat.csprojAssemblyReference.cache
+C:\Users\Fabian\source\repos\LanChat\LanChat\obj\Debug\LanChat.Form1.resources
+C:\Users\Fabian\source\repos\LanChat\LanChat\obj\Debug\LanChat.Properties.Resources.resources
+C:\Users\Fabian\source\repos\LanChat\LanChat\obj\Debug\LanChat.csproj.GenerateResource.cache
+C:\Users\Fabian\source\repos\LanChat\LanChat\bin\Debug\LanChat.exe.config
+C:\Users\Fabian\source\repos\LanChat\LanChat\bin\Debug\LanChat.exe
+C:\Users\Fabian\source\repos\LanChat\LanChat\bin\Debug\LanChat.pdb
+C:\Users\Fabian\source\repos\LanChat\LanChat\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Fabian\source\repos\LanChat\LanChat\obj\Debug\LanChat.csproj.CopyComplete
+C:\Users\Fabian\source\repos\LanChat\LanChat\obj\Debug\LanChat.exe
+C:\Users\Fabian\source\repos\LanChat\LanChat\obj\Debug\LanChat.pdb
+C:\Users\Fabian\source\repos\LanChat\LanChat\bin\Debug\en\LanChat.resources.dll
+C:\Users\Fabian\source\repos\LanChat\LanChat\obj\Debug\LanChat.Form1.en.resources
+C:\Users\Fabian\source\repos\LanChat\LanChat\obj\Debug\en\LanChat.resources.dll
